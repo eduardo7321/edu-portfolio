@@ -8,8 +8,7 @@ export function Contato() {
         <form action="https://formsquash.io/f/MeoMJW8Lxzac9BefOiu1" method="POST">
           <input type="email" name="email" placeholder="digite o seu email aqui" />
           <input type="text" name="firstName" placeholder="digite o seu nome aqui" />
-          <textarea placeholder="escreva a sua mensagem aqui" name="mensagem" id="mensagem"
-           type="mensagem" name="mensagem" className="text">
+          <textarea placeholder="escreva a sua mensagem aqui" name="mensagem" id="mensagem" type="mensagem" className="text">
 
 
           </textarea>
