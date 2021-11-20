@@ -5,7 +5,8 @@ export function Projeto(props) {
     <article className="projeto">
       <img src={props.img} alt={props.descricao} />
       <p>{props.descricao}</p>
-      <a href={props.link} target="_blank" title={`link para ${props.link}`}>link</a>
+      <a href={props.link} target="_blank" rel="noreferrer" title={`link para ${props.link}`}>link</a>
     </article>
   )
 }
+
