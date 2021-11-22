@@ -17,9 +17,9 @@ function Header() {
         <img src={menu} onClick={mobileMenu} className="btn-mobile" alt="menu mobile" />
         <nav className="desktop">
           <ul>
-          <li>home</li>
-            <li>tecnologias</li>
-            <li>projetos</li>          
+          <li>Home</li>
+            <li>Tecnologias</li>
+            <li>Projetos</li>          
           </ul>
         </nav>
       </div>
@@ -28,9 +28,9 @@ function Header() {
         !menuVisibilidade && (
           <nav className="mobile">
           <ul>
-            <li>home</li>
-            <li>tecnologias</li>
-            <li>projetos</li>
+            <li>Home</li>
+            <li>Tecnologias</li>
+            <li>Projetos</li>
           </ul>
         </nav>
         )

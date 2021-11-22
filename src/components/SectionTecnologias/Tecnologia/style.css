@@ -18,7 +18,8 @@
 }
 
 .tecnologia:hover {
-  padding: 35px;
-  transform: rotate(360deg);
-  font-size: 19px;
+  color: #000;
+  transform: rotate(0deg);  
+  border: 1px solid rgb(255, 223, 0);
+  background-color: #fff;
 }
