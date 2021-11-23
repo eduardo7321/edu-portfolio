@@ -18,7 +18,7 @@ function Header() {
 
       
 
-        <img className="minhalogo" src={logo} />
+        <img className="minhalogo" src={logo} alt="logo cabecalho"/>
         
 
         <img src={menu} onClick={mobileMenu} className="btn-mobile" alt="menu mobile" />
