@@ -22,7 +22,7 @@ export function SectionProjetos(){
   ]
   
   return (
-    <section className="projetos">
+    <section className="projetos" id="Projetos">
       <div className="container">
         <h3>ABAIXO TEM ALGUNS DOS MEUS PROJETOS</h3>
         <main>

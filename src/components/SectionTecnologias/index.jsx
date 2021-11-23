@@ -26,7 +26,7 @@ export function SectionTecnologias() {
     CriaTecnologias(vue,"vue JS","Vue.js é um framework JavaScript de código-aberto, focado no desenvolvimento de interfaces de usuário e aplicativos de página única."),
   ]
   return (
-    <section className="tecnologias">
+    <section className="tecnologias" id="Tecnologias">
       <div className="container">
         <h2>VEJA AQUI ALGUMAS TECNOLOGIAS QUE TRABALHO</h2>
           <main>

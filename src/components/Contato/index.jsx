@@ -2,7 +2,7 @@ import './style.css'
 
 export function Contato() {
   return (
-    <section className="contato">
+    <section className="contato" id="Contatos">
       <div className="container">
         <h4>contato</h4>
         <form action="https://formsquash.io/f/MeoMJW8Lxzac9BefOiu1" method="POST">

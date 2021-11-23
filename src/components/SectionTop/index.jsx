@@ -6,7 +6,7 @@ import eu from "../../images/eu.jpg"
 
 export function SectionTop(){
   return (
-    <section className="sectionTop">
+    <section className="sectionTop" id="SobreMim">
       <div className="container">
         <div className="eu">
             <img className="my-img" src={eu} alt="minha imagem" />
